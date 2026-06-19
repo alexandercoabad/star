@@ -12,7 +12,7 @@ Click this link to run it in your browser: https://vga-playground.com/?repo=http
 
 <img width="412" height="576" alt="Screenshot 2026-06-19 at 3 14 39 PM" src="https://github.com/user-attachments/assets/b8aec589-00d4-4117-ac26-2f7830674dcd" />
 
-<img width="471" height="653" alt="Screenshot 2026-06-19 at 3 15 03 PM" src="https://github.com/user-attachments/assets/9255679d-596b-4624-8c4a-d36bec485f30" />
+<img width="412" height="576" alt="Screenshot 2026-06-19 at 3 15 03 PM" src="https://github.com/user-attachments/assets/9255679d-596b-4624-8c4a-d36bec485f30" />
 
 
 ## link to the 3D viewer:
