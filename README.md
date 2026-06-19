@@ -2,6 +2,9 @@
 
 # Star DVD-like screensaver
 
+Click this link to run it in your browser: https://vga-playground.com/?repo=https://github.com/alexandercoabad/star
+
+
 <img width="808" height="538" alt="image" src="https://github.com/user-attachments/assets/612f6a15-e9f9-4d3a-8c48-a8a40ccd0ce6" />
 
 
