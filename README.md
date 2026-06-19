@@ -1,5 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
+This project is based on: https://tinytapeout.com/chips/ttihp25b/tt_um_tinytapeout_logo_screensaver by Uri Shaked of Tiny Tapeout.
+
 # Star DVD-like screensaver
 
 Click this link to run it in your browser: https://vga-playground.com/?repo=https://github.com/alexandercoabad/star
