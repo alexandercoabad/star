@@ -2,9 +2,16 @@
 
 # Star DVD-like screensaver
 
-- [Read the documentation for project](docs/info.md)
+<img width="808" height="538" alt="image" src="https://github.com/user-attachments/assets/612f6a15-e9f9-4d3a-8c48-a8a40ccd0ce6" />
 
-## What is Tiny Tapeout?
+
+<img width="412" height="576" alt="Screenshot 2026-06-19 at 3 14 39 PM" src="https://github.com/user-attachments/assets/b8aec589-00d4-4117-ac26-2f7830674dcd" />
+
+<img width="471" height="653" alt="Screenshot 2026-06-19 at 3 15 03 PM" src="https://github.com/user-attachments/assets/9255679d-596b-4624-8c4a-d36bec485f30" />
+
+
+## link to the 3D viewer:
+https://gds-viewer.tinytapeout.com/?model=https://alexandercoabad.github.io/star/tinytapeout.oas&pdk=sky130A
 
 Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
 
